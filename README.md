@@ -10,10 +10,10 @@ Hi, I'm Diego Burgos!
 
 <pre>
 💻 I am a Computer Engineering student
-📚 I'm studying at Duoc UC in Chile
-📝 I have a strong interest in Data Science and Machine Learning Engineering
-🔭 Currently learning to become a Data Scientist and Machine Learning Engineer
-🌱 Still learning and building my skills in these areas
+📚 I'm studying at Duoc UC, Chile
+📝 Strong interest in Data Science and Machine Learning Engineering
+🔭 Currently learning to become a skilled Data Scientist & ML Engineer
+🌱 Always learning and improving my skills
 🌟 Main language: Python
 🚩 Interested in growing as a Data Scientist and Machine Learning Engineer
 </pre>
