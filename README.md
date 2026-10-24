@@ -39,6 +39,7 @@ Hi, I'm Diego Burgos!
     <a href="https://github.com/DiegoBurgosL"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/DiegoBurgosL"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/DiegoBurgosL"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+	<a href="https://github.com/DiegoBurgosL"><img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch"><a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
