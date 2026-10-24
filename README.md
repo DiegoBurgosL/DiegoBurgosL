@@ -15,7 +15,7 @@ Hi, I'm Diego Burgos!
 🔭 Currently learning to become a skilled Data Scientist & ML Engineer
 🌱 Always learning and improving my skills
 🌟 Main language: Python
-🚩 Interested in growing as a Data Scientist and Machine Learning Engineer
+🚩 Interested in growing as a Data Scientist, Machine Learning and AI Engineer
 </pre>
 <hr>
 
